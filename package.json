@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s05plv7",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0yxb",
+  "name": "ReAct AI agent",
+  "description": "ReAct AI agent",
   "scripts": {
     "start": "vite",
     "dev": "vite",
